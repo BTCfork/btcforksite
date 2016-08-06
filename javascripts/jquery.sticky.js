@@ -10,6 +10,10 @@
 //              It will only set the 'top' and 'position' of your element, you
 //              might need to adjust the width in some cases.
 
+var shown = true;
+$(".dotted-bar").show();
+$(".nav2").hide();
+
 (function($) {
     var defaults = {
             topSpacing: 0,
@@ -31,8 +35,11 @@
                     elementTop = s.stickyWrapper.offset().top,
                     etse = elementTop - s.topSpacing - extra;
                 if (scrollTop <= etse) {
-                    $(".dotted-bar").show();
-                    $(".nav2").hide();
+                    if (!shown) {
+                        $(".dotted-bar").show();
+                        $(".nav2").hide();
+                        shown = true;
+                    }
                     if (s.currentTop !== null) {
                         s.stickyElement
                             .css('position', '')
@@ -43,8 +50,11 @@
                     }
                 }
                 else {
-                    $(".nav2").show();
-                    $(".dotted-bar").hide();
+                    if (shown) {
+                        $(".nav2").show();
+                        $(".dotted-bar").hide();
+                        shown = false;
+                    }
                     var newTop = documentHeight - s.stickyElement.outerHeight()
                         - s.topSpacing - s.bottomSpacing - scrollTop - extra;
                     if (newTop < 0) {
