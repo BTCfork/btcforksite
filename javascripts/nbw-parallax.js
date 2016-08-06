@@ -18,8 +18,8 @@ $(document).ready(function() { //when the document is ready...
 	var $window = $(window);
 	var $firstBG = $('#intro');
 	var bg1 = $("#intro .bg1");
-	var $secondBG = $('#contact');
-	var bg2 = $("#contact .bg2");
+	var $secondBG = $('#contribute');
+	var bg2 = $("#contribute .bg2");
 	var $thirdBG = $('#');
 	var $fourthBG = $('#');
 	
@@ -27,7 +27,7 @@ $(document).ready(function() { //when the document is ready...
 	
 	
 	//apply the class "inview" to a section that is in the viewport
-	$('#intro, #contact').bind('inview', function (event, visible) {
+	$('#intro, #contribute').bind('inview', function (event, visible) {
 			if (visible == true) {
 			$(this).addClass("inview");
 			} else {

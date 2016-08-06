@@ -31,6 +31,8 @@
                     elementTop = s.stickyWrapper.offset().top,
                     etse = elementTop - s.topSpacing - extra;
                 if (scrollTop <= etse) {
+                    $(".dotted-bar").show();
+                    $(".nav2").hide();
                     if (s.currentTop !== null) {
                         s.stickyElement
                             .css('position', '')
@@ -41,6 +43,8 @@
                     }
                 }
                 else {
+                    $(".nav2").show();
+                    $(".dotted-bar").hide();
                     var newTop = documentHeight - s.stickyElement.outerHeight()
                         - s.topSpacing - s.bottomSpacing - scrollTop - extra;
                     if (newTop < 0) {
