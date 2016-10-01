@@ -93,6 +93,10 @@ p.largebody {
 	color: #3d3d3d;
 }
 
+p.largebody b {
+	font-weight:700;
+}
+
 .bigfont {
 	font-size: 180%;
 }

@@ -1,0 +1,65 @@
+body > div.translation-languages-available {
+    position: fixed;
+    left: 1vw;
+    top: 5px;
+    z-index: 501;
+    height: 24px;
+    max-height: 24px;
+    overflow: hidden;
+    border-radius: 12px;
+    background-clip: padding-box
+}
+
+body > div.translation-languages-available > ul {
+    background: #333;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    border-radius: 12px;
+    background-clip: padding-box
+}
+
+body > div.translation-languages-available > ul > li {
+    margin: 0;
+    padding: 0 12px;
+    display: none
+}
+
+body > div.translation-languages-available > ul > li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 24px;
+    display: block
+}
+
+body > div.translation-languages-available > ul > li a:hover {
+    color: #f99841
+}
+
+body > div.translation-languages-available > ul > li.active {
+    display: list-item;
+    background-color: #f99841;
+    border-radius: 12px;
+    background-clip: padding-box
+}
+
+body > div.translation-languages-available > ul > li.active > a, body > div.translation-languages-available > ul > li.active > a:hover {
+    color: #000
+}
+
+body > div.translation-languages-available > ul > li.help-us {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 5px;
+    border-top: 1px solid #f99841;
+    font-weight: 700
+}
+
+body > div.translation-languages-available:hover {
+    overflow: visible
+}
+
+body > div.translation-languages-available:hover > ul > li {
+    display: list-item
+}
