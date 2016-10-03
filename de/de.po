@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-25 15:55+0100\n"
+"PO-Revision-Date: 2016-10-03T09:05:21+00:00\n"
+"Last-Translator: bitcoinforks.org <xxxxxxxxxx@xxxxxxx.xxxxx>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+
+msgctxt "header-title-wereforking"
+msgid "We're forking Bitcoin."
+msgstr "Wir forken Bitcoin."
+
+msgctxt "header-lead-weare"
+msgid "We are a group of Bitcoin users forking Bitcoin back to its original vision of scaling on-chain to the world; with or without miner majority."
+msgstr "Wir sind eine Gemeinschaft von Bitcoin-Nutzern, die Bitcoin \"forken\" um es getreu seiner ursprünglichen Vision weltweit \"on-chain\" zu skalieren; mit oder ohne Mehrheit der Miner."
+
+msgctxt "header-lead-phasedin-quote-before"
+msgid "It can be phased in, like: "
+msgstr "It can be phased in, like: "
+
+msgctxt "header-lead-phasedin-quote-after"
+msgid ""
+msgstr ""
+
+msgctxt "s-nakamoto"
+msgid "S. Nakamoto"
+msgstr ""
+
+msgctxt "vision-title"
+msgid "VISION"
+msgstr "Vision"
+
+msgctxt "vision-we-believe"
+msgid "We believe that Bitcoin will scale on chain, and should be governed through a series of hard forks.  We believe this is the original vision of Bitcoin; to allow any interested user access to a network of peer to peer cash, with a low barrier to entry."
+msgstr "Wir denken, dass Bitcoin \"on-chain\" skalieren wird und dass das durch eine Serie von Hardforks reguliert werden sollte. Wir denken, das ist die ursprüngliche Vision von Bitcoin; jedem interessierten Nutzer Zugang zum Netzwerk des peer-to-peer-Geldes zu erlauben."
+
+msgctxt "vision-our-mission"
+msgid "Our mission is simple: to advance Bitcoin scaling while making a powerful statement on governance by executing a successful hard fork off the Bitcoin network."
+msgstr "Unsere Mission ist einfach: Die Skalierung von Bitcoin voranzutreiben und dabei durch eine erfolgreiche Hardfork des Bitcoin Netzwerkes zu zeigen, wie dieses reguliert werden sollte."
+
+msgctxt "s-nakamoto-quote-phased-in-date"
+msgid ", Oct. 4 2010"
+msgstr ", 4. Okt. 2010"
+
+msgctxt "vision-satoshi-quote-whitepaper-conclusion"
+msgid "Nodes can leave and rejoin the network at will, accepting the proof-of-work chain as proof of what happened while they were gone. They vote with their CPU power, expressing their acceptance of valid blocks by working on extending them and rejecting invalid blocks by refusing to work on them. [b]Any needed rules and incentives can be enforced with this consensus mechanism.[/b]"
+msgstr "Knoten können das Netzwerk jederzeit verlassen oder sich anschliessen, indem sie Proof-of-Work als Beweis dessen akzeptieren, was in ihrer Abwesenheit geschehen ist. Sie wählen mit ihrer Rechenkraft, drücken ihre Akzeptanz von gültigen Blöcken dadurch aus dass sie auf ihnen weiterrechnen und verwerfen ungültige Blöcke dadurch, dass sie sich weigern auf ihnen zu bauen. [b]Alle benötigten Regeln und Anreize können durch diesen Konsensmechanismus erzwungen werden.[/b]"
+
+msgctxt "vision-satoshi-quote-whitepaper-conclusion-text"
+msgid ", Bitcoin whitepaper conclusion"
+msgstr ", Bitcoin Whitepaper, Schlusskapitel"
+
+msgctxt "vision-satoshi-quote-transactions"
+msgid "Nodes only take so many KB of free transactions per block before they start requiring at least 0.01 transaction fee.... I don't think the threshold should ever be 0. [b]We should always allow at least some free transactions.[/b]"
+msgstr "Knoten akzeptieren nur so-und-so viel KB freier Transaktionen, bevor sie mindestens eine 0.01 Gebühr pro Transaktion verlangen... Ich denke nicht dieser Schwellwert sollte jemals 0 sein. [b]Wir sollten immer mindestens ein paar freie Transaktionen erlauben.[/b] "
+
+msgctxt "vision-satoshi-quote-whitepaper-conclusion-date"
+msgid ", Sep. 7 2010"
+msgstr ", 7 Sept. 2010"
+
+msgctxt "vision-satoshi-quote-whitepaper-conclusion-addendum"
+msgid "These quotes are not provided as an appeal to authority, but as a reminder of the original project vision"
+msgstr "Diese Zitate dienen nicht als Autoritätsargument, sondern sollen an die ursprüngliche Vision des Projekts erinnern"
+
+msgctxt "vision-joinus"
+msgid "Join us in exploring forks as the ultimate means of consensus and governance, tackling the pressing and urgent issues in the Bitcoin ecosystem, and opening discussion and experimentation towards controversial changes to the Bitcoin community for the first time."
+msgstr "Macht mit in der Erkundung von Forks als ultimativem Mittel des Konsens und Verwaltung, um die dringlichen und zwingenden Themen im Bitcoin-Ökosystem anzugehen, und Diskussion und Versuchsdurchführung hinsichtlich kontroverser Änderungen erstmals in der Bitcoin-Gemeinschaft zu eröffnen.  "
+
+msgctxt "vision-notfailed"
+msgid "The Bitcoin experiment has not failed; it's just getting started."
+msgstr "Das Bitcoin-Experiment ist nicht fehlgeschlagen; es hat gerade erst begonnen."
+
+msgctxt "vision-button-read-the-whitepaper"
+msgid "Read the Whitepaper"
+msgstr "LESE DAS WHITEPAPER"
+
+msgctxt "roadmap-title"
+msgid "Roadmap"
+msgstr "Roadmap"
+
+msgctxt "roadmap-intro"
+msgid "The first month of the project will be dedicated to finalizing a roadmap for fork experimentation, allowing the community and market to make an informed decision on their Bitcoin client of choice."
+msgstr "Der erste Monat des Projekts wird der Ausarbeitung einer Roadmap für Fork-Experimente gewidmet sein, was der Nutzergemeinschaft und dem Markt eine fundierte Entscheidung zur Auswahl ihrer Bitcoin-Software ermöglichen wird."
+
+msgctxt "roadmap-intro-explain"
+msgid "Our tentative roadmap overview is as follows (due to the early stage of this project, this roadmap is not final and subject to change):"
+msgstr "Eine Übersicht unserer vorläufigen Roadmap sieht wie folgt aus (aufgrund des frühem Stadiums des Projekts ist diese Roadmap nicht endgültig und Änderungen sind vorbehalten):"
+
+msgctxt "roadmap-months-1-3"
+msgid "[b]Months 1-3 : [/b]Community development, establishment of necessary channels, build, and testing infrastructure, and community release of several proposed forks (including multiple client bases and PoW implementations).  Our goal is to create a collaborative environment in which forks can be proposed, tested, evaluated, and deployed by the community and marketplace.  We will research key challenges, like PoW changes, difficulty adjustment, script limits, and effects of blocksize cap through tests on our public test network."
+msgstr "[b]Monate 1-3[/b] : Aufbau der Community, Aufbau von nötigen Kommunikationskanälen, Build- und Test-Infrastruktur, und Veröffentlichung von einigen Fork-Vorschlägen der Community (einschliesslich mehrerer Basis-Clients und PoW-Implementierungen). Unser Ziel ist die Schaffung eines gemeinschaftlichen Umfelds, in dem Forks durch die Community und den Markt vorgeschlagen, getestet, evaluiert und veröffentlicht werden können. Durch Tests auf unserem öffentlichen Testnetzwerk werden wir Kernherausforderungen erforschen, wie z.B. PoW-Änderungen, Schwierigkeitsregulierung, Limitierungen von Skripten, und die Auswirkung des Blockgrößenlimits."
+
+msgctxt "roadmap-months-3-6"
+msgid "[b]Months 3-6 : [/b] Client release of final binaries, and establishment of exchange relationships necessary to begin trading of dominant fork.  Deployment of required network infrastructures, including an initial node and mining network.  We will focus on getting a fork ready for widespread use, getting a working product to the marketplace. "
+msgstr "[b]Monate 3-6 : [/b] Veröffentlichung von Client-Binaries, Aufbau von Beziehungen zu Börsen - notwendig für den Handelsbeginn des dominierenden Forks. Errichtung der erforderlichen Netzwerk-Infrastruktur, einschliesslich eines anfänglichen Knoten- und Miner-Netzwerks. Wir werden unseren Fokus darauf richten, einen Fork für breite Nutzung gut vorzubereiten, um ein funktionsfähiges Produkt auf den Markt zu bringen."
+
+msgctxt "roadmap-months-6-"
+msgid "[b]Months 6- : [/b] Support of the initial and any further forks through the creation of community resources for comparison, discussion, and decision making.  We will faciliatate the overall Bitcoin governance process by encouraging sane forks, regardless of whether or not they are contentious.  We will aim to provide the market with all resources and information necessary to make informed decisions."
+msgstr "[b]Monate 6- : [/b] Unterstützung anfänglicher und weiterer Forks durch die Aufstellung von Community-Resourcen zum Vergleich, zur Diskussion und Entscheidungsfindung. Wir werden den allgemeinen Entscheidungsprozess von Bitcoin erleichtern, indem wir vernünftige Forks fördern, egal ob sie umstritten sind oder nicht. Unser Ziel ist, den Markt mit allen Resourcen und Informationen zu versorgen, welche nötig sind um fundierte Entscheidungen zu treffen."
+
+msgctxt "faq-title"
+msgid "FAQ"
+msgstr ""
+
+msgctxt "faq-have-any-questions-subreddit-link-before"
+msgid "Have any other questions about our project?  Ask on"
+msgstr "Hast du weitere Fragen über unser Projekt? Frag uns in"
+
+msgctxt "faq-our-subreddit-linktext"
+msgid "our subreddit"
+msgstr "unserem Subreddit"
+
+msgctxt "faq-have-any-questions-subreddit-link-after"
+msgid "."
+msgstr ""
+
+msgctxt "faq-is-this-just-another"
+msgid "[b]Is this just another [altcoin / pump and dump]?[/b]  No!  First of all this is not an altcoin; it is a Bitcoin implementation that forks from the main chain, preserving the same UTXO set, genesis block, and blockchain up to a certain height.  While some may redefine the word \"altcoin\" to include any forks of the main chain outside the de facto reference implementation, we do not agree with this disingenuous use of the term."
+msgstr "[b]Ist dies bloß ein weiterer [Altcoin / Pump and Dump]?[/b] Nein! Erstens, dies ist kein Altcoin, sondern eine Bitcoin-Implementierung die von der Hauptkette abzweigt, also den gleichen UTXO-Set, Genesis-Block und die Blockchain bis zu einer gewissen Höhe erhält. Während einige das Wort \"Altcoin\" umdefinieren, um jeden Fork der Hauptkette mit Ausnahme der de facto Referenzimplementierung zu umfassen, stimmen wir dieser unredlichen Verwendung des Begriffs nicht zu."
+
+msgctxt "faq-who-is-behind"
+msgid "[b]Who is behind this project?[/b]  We are a group of Bitcoin developers, users, and supporters who are frustrated by the lack of scaling and governance solutions proposed by the status quo.  While many of us choose to remain anonymous and pseudonymous for fear of attack in what remains a politically loaded space, we will strive to make as much information on the development of our fork public as possible.  We welcome any with time or skills to spare to join the project using the links below. "
+msgstr "[b]Wer steckt hinter diesem Projekt?[/b] Wir sind eine Gruppe von Bitcoin-Entwicklern, Nutzern und Unterstützern die mit dem Mangel an Skalierung und den durch den Status Quo vorgelegten Führungslösungen unzufrieden sind. Obwohl etliche von uns die Anonymität und Pseudonymität wählen aus Furcht vor Angriffen in einem politisch belasteten Raum, werden wir versuchen so viel wie möglich Information über die Entwicklung unserer Forks öffentlich zu machen. Wir begrüssen alle, die Zeit oder Fähigkeiten beisteuern möchten und verweisen auf die Links unten."
+
+msgctxt "faq-why-now"
+msgid "[b]Why now?[/b]  After years of stalling on the scaling issue (with solutions demanded as early as 2012), we believe the time has come to abandon ultraconservatism and move towards progress and open experimentation.  With many popular Bitcoin businesses expressing concerns or pivoting out of the space, we see an existential crisis looming for Bitcoin if scaling is not improved soon.  The active engagement of the community in forks as a freedom-preserving upgrade mechanism is long overdue."
+msgstr "Warum jetzt? Nach Jahren des Hinhaltens in der Skalierungsfrage (bei ersten Lösungsanfragen 2012) meinen wir dass es Zeit ist, den Ultra-Konservatismus abzulegen und sich in Richtung Fortschritt und offener Versuchsdurchführung zu bewegen. Zumal aktuell etliche beliebte Bitcoin-Unternehmen Besorgnis äussern oder sich vom Bitcoin-Umfeld trennen, sehen wir eine nahende existentielle Krise für Bitcoin falls in punkto Skalierung nicht bald Verbesserung erreicht wird. Das aktive Einbinden der Community in Forks als freiheitswahrendem Aufrüstungsmechanismus ist lange überfällig."
+
+msgctxt "faq-what-forkclient"
+msgid "[b]What client are we using for the fork?[/b] We have not chosen a specific client for the fork.  Rather, we aim to encourage all developers to propose forking clients, and wish to provide an infrastructure through which these forks can all be tested and evaluated.  We support any and all technically significant forks of the current blockchain, and believe all should be discussed and submitted to consideration to the wider community. "
+msgstr "Welchen Client nutzen wir für den Fork? Wir haben keinen spezifischen Client für den Fork gewählt. Anstelle dessen ermutigen wir alle Entwickler, Fork-Clients vorzuschlagen, und wir möchten eine Infrastruktur bieten mit welcher diese Forks alle geprüft und evaluiert werden können. Wir unterstützen jegliche technisch bedeutenden Forks der derzeitigen Blockchain, und sind der Meinung dass alle diese Forkvorschläge diskutiert and der Betrachtung der grösseren Community vorgelegt werden sollten."
+
+msgctxt "faq-loss-of-funds"
+msgid "[b]But can't a fork cause loss of funds?[/b]  No, a properly implemented and deployed fork will not cause a loss of funds in the absence of severe negligence.  Because the new fork inherently has a different value than the old chain, and requires proactive upgrade actions from users and nodes, these users have an opportunity to take appropriate security protections in anticipation of the fork.  Old clients will simply continue operating on the old chain, with clients intending to trade goods for fiat simply operating with the exchange value of the old chain.  Several cryptocurrencies have already demonstrated successful forks with no fund loss, and we believe the fear of such forks in the Bitcoin community is unsupported by the current empirical evidence. "
+msgstr "[b]Aber kann ein Fork nicht zu Verlust führen?[/b] Nein, ein ordentlich durchgeführter und ausgefahrener Fork wird nicht zu Verlust führen, in Abwesenheit grober Fahrlässigkeit. Weil ein neuer Fork von sich aus einen unterschiedlichen Wert hat als die alte Kette, und proaktives Handeln von Nutzern und Knoten voraussetzt, werden die Nutzer die Möglichkeit haben, angemessene Sicherheitvorkehrungen vorab in Erwartung des Forks zu treffen. Alte Clients werden weiterhin auf der alten Kette funktionieren, während Nutzer im Güterhandel für Buchgeld einfach weiterhin mit dem Börsenkurs der alten Kette wirtschaften. Mehrere Kryptowährungen haben schon erfolgreiche Forks ohne Verlust durchgeführt, und wir glauben dass die Angst vor solchen Forks in der Bitcoin-Gemeinschaft nicht durch aktuelle empirische Indizien gestützt werden kann."
+
+msgctxt "faq-why-not-soft"
+msgid "[b]Why not a soft fork?[/b]  We believe deploying critical protocol changes through soft forks is an inherently bloated process that is coercive to far more people than an equivalent hard fork. Soft forks activate exclusively on miner vote, disenfranchising nodes that do not hold hashpower and excluding them from the decision process.  Furthermore, many soft forks decrease the security of old nodes by removing their ability to meaningfully validate an ever-increasing percentage of transactions in blocks.  Lastly, soft forks are coercive to dissident miners, who are forced to either upgrade to the fork or accept the potential orphaning of all blocks they mine.  On the other hand, a hard fork allows all users of the system to explicitly choose the consensus rules and blockchain with which they transact.  Hard forks also mitigate the damage possible through development capture by allowing users a choice to change to a chain with values, developers, and code of their choosing.  Ultimately, hard forks are an essential upgrade mechanism, and critical to the antifragility of all cryptocurrency. "
+msgstr "Warum nicht ein Soft-Fork? Wir glauben dass kritische Protokoll-Änderungen durch Soft-Forks ein inhärent aufgedunsener Vorgang ist welcher sich auf weit mehr Nutzer zwingend auswirkt als ein äquivalenter Hard-Fork. Soft-Forks aktivieren ausschliesslich durch Votum der Miner, und entrechten dadurch Knoten die keine Hashkraft besitzen und somit vom Entscheidungsvorgang ausgeschlossen werden. Ausserdem reduzieren einige Soft-Forks die Sicherheit alter Knoten indem sie ihen die Möglichkeit einer sinnhaften Validierung von Transaktionen in Blocks zunehmend entziehen. Letzendlich wirken sich Soft-Forks entrechtend auf andersdenkende Miner aus, welche gezwungen werden entweder auf den Fork umzurüsten oder das potenzielle Verwaisen aller ihrer Blöcke zu akzeptieren. Hingegen erlaubt es ein Hard-Fork allen Nutzern des Systems, explizit die Konsensregeln und die Blockchain mit der sie tätig sind zu wählen. Weiterhin mildern Hard-Forks den Schaden eines Kaperns des Entwicklungsprozesses indem sie eine Auswahl ermöglichen wodurch Nutzer auf eine Kette mit den Werten, Entwicklern und Code ihrer Wahl umsiedeln können. Demzufolge sind Hard-Forks ein unverzichtbarer Upgrade-Mechanismus, und entscheidend für die Anti-Fragilität jeglicher Kryptowährung."
+
+msgctxt "faq-hard-is-necessary"
+msgid "[b]But a hard fork is hard?[/b]  A hard fork is hard but necessary.  After the first fork is executed, we expect the ecosystem of tools surrounding the management of forks to become increasingly robust, supporting future forks in a far more seamless and low-effort fashion. "
+msgstr "[b]Aber ein Hard-Fork ist schwierig?[/b] Ein Hard-Fork ist schwierig aber notwendig. Nachdem ein Fork erstmals durchgeführt worden ist, erwarten wir dass das Ökosystem an Tools um das Management von Forks zunehmend robuster werden wird, und zukünftige Forks in einer weit nahtloseren und weniger aufwendigen Weise durchgeführt werden können."
+
+msgctxt "contribute-title"
+msgid "Contribute"
+msgstr "Mach mit"
+
+msgctxt "contribute-calling-all-devs"
+msgid "Calling all devs and non-devs alike: Help us bring Bitcoin to the world."
+msgstr "Wir rufen alle Entwickler und Nicht-Entwickler gleichermassen auf: Helft uns, Bitcoin in die Welt zu tragen."
+
+msgctxt "contribute-linktext-reddit-before"
+msgid "Start the conversation on reddit at"
+msgstr "Diskuttiere auf reddit unter"
+
+msgctxt "contribute-linktext-reddit-after"
+msgid ""
+msgstr ""
+
+msgctxt "contribute-linktext-consider-it-before"
+msgid "Vote on BTC Fork Constitution and features at"
+msgstr "Die BTC Fork Verfassung und Features stehen auf"
+
+msgctxt "contribute-linktext-consider-it-after"
+msgid ""
+msgstr "zur Wahl"
+
+msgctxt "contribute-linktext-github-before"
+msgid "Contribute code or testing at"
+msgstr "Unterstütze uns durch Programmieren oder Testen des Codes auf"
+
+msgctxt "contribute-linktext-github-after"
+msgid ""
+msgstr ""
+
+msgctxt "contribute-linktext-telegram-before"
+msgid "Join us on Telegram at"
+msgstr "Tritt unserer Telegram-Gruppe"
+
+msgctxt "contribute-linktext-telegram-after"
+msgid ""
+msgstr "bei"
+
+msgctxt "contribute-linktext-twitter-before"
+msgid "Follow us on Twitter at "
+msgstr ""
+
+msgctxt "contribute-linktext-twitter-after"
+msgid ""
+msgstr ""
+
+msgctxt "contribute-linktext-transifex-before"
+msgid "Help to translate this site at"
+msgstr "Hilf mit bei der Übersetzung dieser Webseite auf"
+
+msgctxt "contribute-linktext-transifex-after"
+msgid ""
+msgstr ""
+
+msgctxt "contribute-linktext-slack-before"
+msgid "Join our development Slack"
+msgstr "Besuche unseren Entwicklungs-Slack"
+
+msgctxt "contribute-linktext-slack"
+msgid "here"
+msgstr "hier"
+
+msgctxt "contribute-linktext-slack-after"
+msgid ""
+msgstr ""
+
+msgctxt "html-page-meta-description"
+msgid "We are forking Bitcoin to restore the original vision of the cryptocurrency, with or without miner majority."
+msgstr ""
+
+msgctxt "html-page-title"
+msgid "BTCFork - The Original Bitcoin"
+msgstr ""
