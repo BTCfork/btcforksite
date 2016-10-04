@@ -1,0 +1,4 @@
+LANGUAGES MANIFEST
+en
+zh
+de
