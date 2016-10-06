@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-25 15:55+0100\n"
-"PO-Revision-Date: 2016-10-03T12:05:47+02:00\n"
+"PO-Revision-Date: 2016-10-06T12:16:40+00:00\n"
 "Last-Translator: bitcoinforks.org <xxxxxxxxxx@xxxxxxx.xxxxx>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -101,7 +101,7 @@ msgid "[b]Months 3-6 : [/b] Client release of final binaries, and establishment 
 msgstr "[b]Monate 3-6 : [/b] Veröffentlichung von Client-Binaries, Aufbau von Beziehungen zu Börsen - notwendig für den Handelsbeginn des dominierenden Forks. Errichtung der erforderlichen Netzwerk-Infrastruktur, einschliesslich eines anfänglichen Knoten- und Miner-Netzwerks. Wir werden unseren Fokus darauf richten, einen Fork für breite Nutzung gut vorzubereiten, um ein funktionsfähiges Produkt auf den Markt zu bringen."
 
 msgctxt "roadmap-months-6-"
-msgid "[b]Months 6- : [/b] Support of the initial and any further forks through the creation of community resources for comparison, discussion, and decision making.  We will faciliatate the overall Bitcoin governance process by encouraging sane forks, regardless of whether or not they are contentious.  We will aim to provide the market with all resources and information necessary to make informed decisions.  "
+msgid "[b]Months 6- : [/b] Support of the initial and any further forks through the creation of community resources for comparison, discussion, and decision making.  We will faciliatate the overall Bitcoin governance process by encouraging sane forks, regardless of whether or not they are contentious.  We will aim to provide the market with all resources and information necessary to make informed decisions."
 msgstr "[b]Monate 6- : [/b] Unterstützung anfänglicher und weiterer Forks durch die Aufstellung von Community-Resourcen zum Vergleich, zur Diskussion und Entscheidungsfindung. Wir werden den allgemeinen Entscheidungsprozess von Bitcoin erleichtern, indem wir vernünftige Forks fördern, egal ob sie umstritten sind oder nicht. Unser Ziel ist, den Markt mit allen Resourcen und Informationen zu versorgen, welche nötig sind um fundierte Entscheidungen zu treffen."
 
 msgctxt "faq-title"
@@ -161,14 +161,6 @@ msgid "Start the conversation on reddit at"
 msgstr "Diskuttiere auf reddit unter"
 
 msgctxt "contribute-linktext-reddit-after"
-msgid ""
-msgstr ""
-
-msgctxt "contribute-linktext-freenode-before"
-msgid "Chat in real time with us at"
-msgstr "Chatte mit uns bei"
-
-msgctxt "contribute-linktext-freenode-after"
 msgid ""
 msgstr ""
 
