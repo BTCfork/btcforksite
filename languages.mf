@@ -1,5 +1,5 @@
 LANGUAGES MANIFEST
 en
+de
 zh
 fr
-de
